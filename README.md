@@ -7,8 +7,8 @@ To download and set Pink-shell theme just open a terminal and run:
 
 - *If you have an error like git isn't found then:* sudo apt install git
 
-- cd Downloads *English language system*
-- cd Descargas *Spanish language system*
+- cd Downloads (*English language system*)
+- cd Descargas (*Spanish language system*)
 - sudo mkdir ~/.themes
 - sudo mkdir ~/.icons
 - sudo cp -r Pink-shell/Pink-shell/ ~/.themes/
