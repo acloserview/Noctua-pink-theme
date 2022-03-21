@@ -1,7 +1,7 @@
 # 🌌 Pink-shell 🌌
 Gnome theme created at a bored night :)
 
-To set Pink-shell theme just open a terminal and run:
+To download and set Pink-shell theme just open a terminal and run:
 
 - git clone https://github.com/carlosrl19/Pink-shell.git
 
