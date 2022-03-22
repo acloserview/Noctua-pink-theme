@@ -11,7 +11,7 @@ To download and set Pink-shell theme just open a terminal and run:
 - sudo mkdir ~/.themes
 - sudo mkdir ~/.icons
 
-<< Copy theme and icons into create folders >>
+<< Copy theme and icons  >>
 - sudo cp -r Pink-shell/Pink-shell/ ~/.themes/
 - sudo cp -r Pink-shell/icons/Pink-nightmare-icons/ ~/.icons/
 
