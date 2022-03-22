@@ -1,5 +1,5 @@
-# 🌌 Pink-shell 🌌
-Gnome theme created at a bored night :)
+# 🌌 Pink-gtk-theme 🌌
+Gnome theme created at a bored night. Papirus icons based :)
 
 To download and set Pink-shell theme just open a terminal and run:
 
