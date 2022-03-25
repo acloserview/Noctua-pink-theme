@@ -17,7 +17,7 @@ To download and set Pink-shell theme just open a terminal and run:
 << Copy theme, icons and rofi configs  >>
 - sudo cp -r Pink-gtk-theme/ ~/.themes/
 - sudo cp -r Pink-gtk-icons/ ~/.icons/
-- sudo cp Rofi/pink-shell-rofi.dark.rasi rounded-common.rasi /usr/share/rofi/themes/ 
+- sudo cp Rofi/pink-shell-rofi.dark.rasi Rofi/rounded-common.rasi /usr/share/rofi/themes/ 
 
 Now you can set Pink-shell in your system.
 
