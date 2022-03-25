@@ -1,6 +1,8 @@
 # 🌌 Pink-gtk-theme 🌌
 Gnome theme created at a bored night. Papirus icons based :)
 
+/*Rofi menu is needed*/ sudo apt install rofi
+
 To download and set Pink-shell theme just open a terminal and run:
 
 - cd Downloads
@@ -12,9 +14,10 @@ To download and set Pink-shell theme just open a terminal and run:
 - sudo mkdir ~/.themes
 - sudo mkdir ~/.icons
 
-<< Copy theme and icons  >>
+<< Copy theme, icons and rofi configs  >>
 - sudo cp -r Pink-gtk-theme/ ~/.themes/
 - sudo cp -r Pink-gtk-icons/ ~/.icons/
+- sudo cp Rofi/pink-shell-rofi.dark.rasi rounded-common.rasi /usr/share/rofi/themes/ 
 
 Now you can set Pink-shell in your system.
 
